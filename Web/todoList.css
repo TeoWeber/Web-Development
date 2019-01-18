@@ -1,0 +1,21 @@
+body {
+	background: orange;
+}
+
+li {
+	border: 2px solid red;
+}
+
+.completed {
+	background-color: yellow;
+	text-decoration: line-through;
+}
+
+#pokemon {
+	background-color: blue;
+}
+
+#pokemon span{
+	color: white;
+	font-weight: bold;
+}
